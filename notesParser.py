@@ -21,3 +21,19 @@ print f.write("Fuck")
 f = open('C:\\Users\\ccole\\Documents\\Playground\\python_project\\log_extractor\\testNotes.txt', 'r')
 print f.read()
 
+def read_notes_log():
+
+
+def match_reg_expression_dates():
+
+def find_transport():
+
+def find_start():
+def find_potential_total():
+def find_potential_matched():
+def find_actual_total():
+def find_actual_moved():
+def find_actual_timeouts():
+def find_actual_timeouts_inc():
+def find_late():
+def find_errors():
