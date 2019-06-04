@@ -1,0 +1,53 @@
+Transport 1: Run "5-6-20190419150807131" completed. Potential Total: 2, Potential Matched: 2, Potential Timeouts: 0, Actual Total: 2, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+
+---------- Timing Histograms ----------
+
+NameVariations ( Count: 4 Min: 9 Max: 72 Average: 47)
+Range	0	10	20	30	40	50	60	70	
+Count	1	0	0	1	0	0	0	2	
+
+TotalTimeInSystem(Ms) ( Count: 2 Min: 47 Max: 51 Average: 49)
+Range	0	10	20	30	40	50	
+Count	0	0	0	0	1	1	
+
+TimeRemainingAtReceipt(Ms) ( Count: 2 Min: 520 Max: 535 Average: 528)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	
+
+CheckMoveRequestsPerSecond ( Count: 1 Min: 1 Max: 1 Average: 1)
+Range	0	
+Count	1	
+
+LookupQueryTime(Ms) ( Count: 2 Min: 3 Max: 10 Average: 7)
+Range	0	10	
+Count	1	1	
+
+TotalProcessTime(Ms) ( Count: 2 Min: 47 Max: 51 Average: 49)
+Range	0	10	20	30	40	50	
+Count	0	0	0	0	1	1	
+
+CloudLookupTravelAndProcessTime(Ms) ( Count: 2 Min: 46 Max: 51 Average: 49)
+Range	0	10	20	30	40	50	
+Count	0	0	0	0	1	1	
+
+CloudLookupTravelTime(Ms) ( Count: 2 Min: 41 Max: 43 Average: 42)
+Range	0	10	20	30	40	
+Count	0	0	0	0	2	
+
+ResponseSendTime(Ms) ( Count: 4 Min: 0 Max: 1 Average: 1)
+Range	0	
+Count	4	
+
+
+---------- Global Timing Histograms ----------
+
+TimeRemainingAtReceipt(Ms) ( Count: 13269 Min: 144 Max: 567 Average: 532)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	2	5	0	2	2	0	1	2	0	5	4	0	6	0	5	6	0	14	36	0	70	155	0	539	1335	1417	7201	0	2425	34	
+
+ResponseSendTime(Ms) ( Count: 89856 Min: 0 Max: 17 Average: 1)
+Range	0	10	
+Count	89832	24	
+
+CheckMoveRequestsPerSecond ( Count: 0 Min: 0 Max: 0 Average: 0)
+

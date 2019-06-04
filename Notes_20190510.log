@@ -1,0 +1,186 @@
+05/10/2019 10:56:12 Transport 1: Start Run Unsuccessful, ErrorCode = 28, cURL error (28): GetServerURL request failed: Timeout was reached
+05/10/2019 11:48:33 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 11:48:33 Transport 1: Run "5-6-20190510121251548" starting
+05/10/2019 11:54:19 Transport 1: Run "5-6-20190510121251548" Success
+05/10/2019 11:54:19 Transport 1: Run "5-6-20190510121251548" completed. Potential Total: 191, Potential Matched: 24, Potential Timeouts: 0, Actual Total: 24, Actual Moved: 1, Actual Timeouts: 17, Actual Timeouts Inc: 0, Late: 21, Errors: 0
+05/10/2019 11:54:20 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 11:54:20 Transport 1: Run "5-6-20190510121838725" starting
+05/10/2019 11:54:28 Transport 1: Run "5-6-20190510121838725" Run Kill Success
+05/10/2019 11:54:28 Transport 1: Run "5-6-20190510121838725" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 11:54:29 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 11:54:29 Transport 1: Run "5-6-20190510121847992" starting
+05/10/2019 11:55:45 Transport 1: Run "5-6-20190510121847992" Success
+05/10/2019 11:55:45 Transport 1: Run "5-6-20190510121847992" completed. Potential Total: 133, Potential Matched: 24, Potential Timeouts: 0, Actual Total: 24, Actual Moved: 3, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 11:55:46 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 11:55:46 Transport 1: Run "5-6-20190510122005120" starting
+05/10/2019 12:17:36 Transport 1: Run "5-6-20190510122005120" Success
+05/10/2019 12:17:36 Transport 1: Run "5-6-20190510122005120" completed. Potential Total: 9614, Potential Matched: 1303, Potential Timeouts: 0, Actual Total: 1303, Actual Moved: 122, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 28, Errors: 0
+05/10/2019 12:17:36 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 12:17:36 Transport 1: Run "5-6-20190510124154350" starting
+05/10/2019 12:56:25 Transport 1: End Run Unsuccessful, ErrorCode = 28, cURL error (28): EndRun request failed: Timeout was reached
+05/10/2019 12:56:25 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 12:57:27 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510132040622")
+05/10/2019 12:57:31 Runs paused.
+05/10/2019 12:57:36 Runs started.
+05/10/2019 12:57:42 Transport 1: End Run Unsuccessful, ErrorCode = 28, cURL error (28): EndRun request failed: Timeout was reached
+05/10/2019 12:57:42 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:25:46 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510132157663")
+05/10/2019 13:25:49 Runs paused.
+05/10/2019 13:25:52 Runs started.
+05/10/2019 13:26:00 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:26:00 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:26:20 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135019784")
+05/10/2019 13:26:30 Runs paused.
+05/10/2019 13:26:32 Runs started.
+05/10/2019 13:26:42 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:26:42 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:26:58 Runs paused.
+05/10/2019 13:26:58 Processing Of New Runs Stopped.
+05/10/2019 13:26:58 Waiting For Active Runs To Finish.
+05/10/2019 13:27:13 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135102057")
+05/10/2019 13:27:17 Runs started.
+05/10/2019 13:28:40 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:28:40 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:28:43 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135259787")
+05/10/2019 13:28:47 Runs paused.
+05/10/2019 13:28:50 Runs started.
+05/10/2019 13:29:00 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:29:00 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:29:05 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135319923")
+05/10/2019 13:29:46 Runs paused.
+05/10/2019 13:29:48 Runs started.
+05/10/2019 13:29:56 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:29:57 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:30:35 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135416210")
+05/10/2019 13:30:43 Runs paused.
+05/10/2019 13:30:46 Runs started.
+05/10/2019 13:31:23 Transport 1: End Run Unsuccessful, ErrorCode = 404, Data Services error (404): Invalid LK or RN or there is no StartRun running for this LK O8IYXV5QV28HGSAH and for this RN 5-6-201905101241543501557508656
+05/10/2019 13:31:24 Transport 1: Start Run Unsuccessful, ErrorCode = 2, Run Active: 5-6-20190510124154350
+05/10/2019 13:31:36 Runs paused.
+05/10/2019 13:31:36 Processing Of New Runs Stopped.
+05/10/2019 13:31:36 Waiting For Active Runs To Finish.
+05/10/2019 13:31:42 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("5-6-20190510135543094")
+05/10/2019 13:31:48 Runs started.
+05/10/2019 13:31:49 Runs paused.
+05/10/2019 13:31:49 Processing Of New Runs Stopped.
+05/10/2019 13:31:49 Waiting For Active Runs To Finish.
+05/10/2019 13:31:50 Runs started.
+05/10/2019 13:37:53 //========================================================
+05/10/2019 13:37:53 //== Loading NCOA data
+05/10/2019 13:37:53 //========================================================
+05/10/2019 13:37:53 Loading data starting
+05/10/2019 13:37:53 Loading NCOA data
+05/10/2019 13:38:00 Loading NCOA data was successful!
+05/10/2019 13:38:00 NCOA directory date: 20190422
+05/10/2019 13:38:00 Starting Directory Test
+05/10/2019 13:38:00 Directory Test Performed, Total:2280, Matched:979, min time (us): 2000
+05/10/2019 13:38:00 Loading data completed.
+05/10/2019 13:38:00 Runs started.
+05/10/2019 13:38:00 //========================================================
+05/10/2019 13:38:00 //== Purging aged ACS/FFMUN and PSR files
+05/10/2019 13:38:00 //========================================================
+05/10/2019 13:38:02 Purging aged ACS/FFMUN and PSR files has completed!
+05/10/2019 13:38:02 Next ACS/FFMUN and PSR file purge attempt will be at: Sat May 11 13:38:02 2019
+05/10/2019 13:38:02 //========================================================
+05/10/2019 13:38:02 //== Install of the 00 Table has begun
+05/10/2019 13:38:02 //========================================================
+05/10/2019 13:38:02 Runs paused.
+05/10/2019 13:38:02 Unloading NCOA data
+05/10/2019 13:38:02 Unloading NCOA data was successful!
+05/10/2019 13:38:05 dvdhdr01.dat download started 
+05/10/2019 13:38:05 dvdhdr01.dat download started 
+05/10/2019 13:38:05 dvdhdr01.dat downloaded successfully
+05/10/2019 13:38:05 The current 00 Table is the same version as the available download version
+05/10/2019 13:38:05 Next 00 Table download attempt will be at: Sun May 12 22:00:00 2019
+05/10/2019 13:38:05 Fulfillment Install 00 Table : the 00 Table is up to date
+05/10/2019 13:38:05 Loading NCOA data
+05/10/2019 13:38:06 Loading NCOA data was successful!
+05/10/2019 13:38:06 NCOA directory date: 20190422
+05/10/2019 13:38:06 Starting Directory Test
+05/10/2019 13:38:06 Directory Test Performed, Total:2280, Matched:979, min time (us): 2000
+05/10/2019 13:38:06 Runs started.
+05/10/2019 13:38:42 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 13:38:42 Transport 1: Run "5-6-20190510140301977" starting
+05/10/2019 13:38:52 Transport 1: Run "5-6-20190510140301977" Run Kill Success
+05/10/2019 13:38:52 Transport 1: Run "5-6-20190510140301977" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 13:38:53 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 13:38:53 Transport 1: Run "5-6-20190510140312570" starting
+05/10/2019 13:39:13 Transport 1: Run "5-6-20190510140312570" Success
+05/10/2019 13:39:13 Transport 1: Run "5-6-20190510140312570" completed. Potential Total: 20, Potential Matched: 3, Potential Timeouts: 0, Actual Total: 3, Actual Moved: 1, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 13:39:13 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 13:39:13 Transport 1: Run "5-6-20190510140332557" starting
+05/10/2019 13:39:31 Transport 1: Run "5-6-20190510140332557" Success
+05/10/2019 13:39:31 Transport 1: Run "5-6-20190510140332557" completed. Potential Total: 7, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 13:39:31 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 13:39:31 Transport 1: Run "5-6-20190510140350653" starting
+05/10/2019 14:08:03 Transport 1: Run "5-6-20190510140350653" Success
+05/10/2019 14:08:03 Transport 1: Run "5-6-20190510140350653" completed. Potential Total: 12583, Potential Matched: 2406, Potential Timeouts: 0, Actual Total: 2406, Actual Moved: 35, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 52, Errors: 0
+05/10/2019 14:08:04 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:08:04 Transport 1: Run "5-6-20190510143221655" starting
+05/10/2019 14:08:08 Transport 1: Run "5-6-20190510143221655" Run Kill Success
+05/10/2019 14:08:08 Transport 1: Run "5-6-20190510143221655" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:08:09 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:08:09 Transport 1: Run "5-6-20190510143228998" starting
+05/10/2019 14:08:21 Transport 1: Run "5-6-20190510143228998" Success
+05/10/2019 14:08:21 Transport 1: Run "5-6-20190510143228998" completed. Potential Total: 2, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:08:22 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:08:22 Transport 1: Run "5-6-20190510143241688" starting
+05/10/2019 14:08:27 Transport 1: Run "5-6-20190510143241688" Run Kill Success
+05/10/2019 14:08:27 Transport 1: Run "5-6-20190510143241688" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:08:27 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:08:27 Transport 1: Run "5-6-20190510143247366" starting
+05/10/2019 14:13:23 Transport 1: Run "5-6-20190510143247366" Success
+05/10/2019 14:13:23 Transport 1: Run "5-6-20190510143247366" completed. Potential Total: 1692, Potential Matched: 267, Potential Timeouts: 0, Actual Total: 267, Actual Moved: 12, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 8, Errors: 0
+05/10/2019 14:13:23 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:13:23 Transport 1: Run "5-6-20190510143741959" starting
+05/10/2019 14:13:23 Transport 1: Run "5-6-20190510143741959" Run Kill Success
+05/10/2019 14:13:23 Transport 1: Run "5-6-20190510143741959" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:13:33 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:13:33 Transport 1: Run "5-6-20190510143752791" starting
+05/10/2019 14:14:53 Transport 1: Run "5-6-20190510143752791" Success
+05/10/2019 14:14:53 Transport 1: Run "5-6-20190510143752791" completed. Potential Total: 288, Potential Matched: 191, Potential Timeouts: 0, Actual Total: 191, Actual Moved: 12, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 1, Errors: 0
+05/10/2019 14:30:25 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:30:25 Transport 1: Run "5-6-20190510145444542" starting
+05/10/2019 14:30:32 Transport 1: Run "5-6-20190510145444542" Run Kill Success
+05/10/2019 14:30:32 Transport 1: Run "5-6-20190510145444542" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:30:33 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:30:33 Transport 1: Run "5-6-20190510145452940" starting
+05/10/2019 14:30:36 Transport 1: Run "5-6-20190510145452940" Run Kill Success
+05/10/2019 14:30:36 Transport 1: Run "5-6-20190510145452940" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:30:42 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:30:42 Transport 1: Run "5-6-20190510145501597" starting
+05/10/2019 14:31:11 Transport 1: Run "5-6-20190510145501597" Success
+05/10/2019 14:31:11 Transport 1: Run "5-6-20190510145501597" completed. Potential Total: 25, Potential Matched: 6, Potential Timeouts: 0, Actual Total: 6, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:31:17 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:31:17 Transport 1: Run "5-6-20190510145536915" starting
+05/10/2019 14:31:38 Transport 1: Run "5-6-20190510145536915" Success
+05/10/2019 14:31:38 Transport 1: Run "5-6-20190510145536915" completed. Potential Total: 3, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:31:39 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:31:39 Transport 1: Run "5-6-20190510145558170" starting
+05/10/2019 14:31:51 Transport 1: Run "5-6-20190510145558170" Success
+05/10/2019 14:31:51 Transport 1: Run "5-6-20190510145558170" completed. Potential Total: 5, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:31:56 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:31:56 Transport 1: Run "5-6-20190510145616373" starting
+05/10/2019 14:32:43 Transport 1: Run "5-6-20190510145616373" Success
+05/10/2019 14:32:43 Transport 1: Run "5-6-20190510145616373" completed. Potential Total: 3, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 14:32:48 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 14:32:48 Transport 1: Run "5-6-20190510145708258" starting
+05/10/2019 14:43:13 Transport 1: Run "5-6-20190510145708258" Run Kill Success
+05/10/2019 14:43:13 Transport 1: Run "5-6-20190510145708258" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 17:05:14 Transport 1: Start Run Unsuccessful, ErrorCode = 28, cURL error (28): GetServerURL request failed: Timeout was reached
+05/10/2019 17:05:23 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 17:05:23 Transport 1: Run "5-6-20190510172942529" starting
+05/10/2019 17:05:24 Transport 1: Run "5-6-20190510172942529" Run Kill Success
+05/10/2019 17:05:24 Transport 1: Run "5-6-20190510172942529" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 17:05:29 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 17:05:29 Transport 1: Run "5-6-20190510172949437" starting
+05/10/2019 17:06:05 Transport 1: Run "5-6-20190510172949437" Success
+05/10/2019 17:06:05 Transport 1: Run "5-6-20190510172949437" completed. Potential Total: 3, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 1, Actual Timeouts Inc: 0, Late: 1, Errors: 0
+05/10/2019 17:06:11 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 17:06:11 Transport 1: Run "5-6-20190510173031146" starting
+05/10/2019 17:06:18 Transport 1: Run "5-6-20190510173031146" Run Kill Success
+05/10/2019 17:06:18 Transport 1: Run "5-6-20190510173031146" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/10/2019 17:06:19 Transport 1: Data Services NCOA directory date: 20190422
+05/10/2019 17:06:19 Transport 1: Run "5-6-20190510173038560" starting
+05/10/2019 17:06:21 Transport 1: Run "5-6-20190510173038560" Run Kill Success
+05/10/2019 17:06:21 Transport 1: Run "5-6-20190510173038560" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0

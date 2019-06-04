@@ -1,0 +1,178 @@
+05/03/2019 05:08:53 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 05:08:53 Transport 1: Run "4-12-20190503061347158" starting
+05/03/2019 05:13:11 Transport 1: End Run Unsuccessful, ErrorCode = 6, MCL error (6): EndRun PSR Not Saved To File
+05/03/2019 05:13:15 Transport 1: Run "4-12-20190503061347158" Success
+05/03/2019 05:13:15 Transport 1: Run "4-12-20190503061347158" completed. Potential Total: 1750, Potential Matched: 204, Potential Timeouts: 0, Actual Total: 204, Actual Moved: 10, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 3, Errors: 0
+05/03/2019 05:13:16 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 05:13:16 Transport 1: Run "4-12-20190503061810251" starting
+05/03/2019 05:14:17 Transport 1: Run "4-12-20190503061810251" Success
+05/03/2019 05:14:17 Transport 1: Run "4-12-20190503061810251" completed. Potential Total: 63, Potential Matched: 9, Potential Timeouts: 0, Actual Total: 9, Actual Moved: 1, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 05:14:21 Transport 1: Run "4-12-20190503061915775" starting
+05/03/2019 05:15:28 Transport 1: Run "4-12-20190503061915775" Success
+05/03/2019 05:15:28 Transport 1: Run "4-12-20190503061915775" completed. Potential Total: 26, Potential Matched: 24, Potential Timeouts: 0, Actual Total: 24, Actual Moved: 1, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 05:15:32 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 05:15:32 Transport 1: Run "4-12-20190503062026883" starting
+05/03/2019 05:15:34 Transport 1: Run "4-12-20190503062026883" Run Kill Success
+05/03/2019 05:15:34 Transport 1: Run "4-12-20190503062026883" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 //== Loading NCOA data
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 Loading data starting
+05/03/2019 08:35:48 Loading NCOA data
+05/03/2019 08:35:48 Loading NCOA data was successful!
+05/03/2019 08:35:48 NCOA directory date: 20190415
+05/03/2019 08:35:48 Starting Directory Test
+05/03/2019 08:35:48 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 08:35:48 Loading data completed.
+05/03/2019 08:35:48 Runs started.
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 //== Purging aged ACS/FFMUN and PSR files
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 Purging aged ACS/FFMUN and PSR files has completed!
+05/03/2019 08:35:48 Next ACS/FFMUN and PSR file purge attempt will be at: Sat May 04 08:35:48 2019
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 //== Install of the 00 Table has begun
+05/03/2019 08:35:48 //========================================================
+05/03/2019 08:35:48 Runs paused.
+05/03/2019 08:35:48 Unloading NCOA data
+05/03/2019 08:35:48 Unloading NCOA data was successful!
+05/03/2019 08:35:51 dvdhdr01.dat download started 
+05/03/2019 08:35:52 dvdhdr01.dat download started 
+05/03/2019 08:35:52 dvdhdr01.dat downloaded successfully
+05/03/2019 08:35:52 The current 00 Table is the same version as the available download version
+05/03/2019 08:35:52 Next 00 Table download attempt will be at: Sun May 05 22:00:00 2019
+05/03/2019 08:35:52 Fulfillment Install 00 Table : the 00 Table is up to date
+05/03/2019 08:35:52 Loading NCOA data
+05/03/2019 08:35:52 Loading NCOA data was successful!
+05/03/2019 08:35:52 NCOA directory date: 20190415
+05/03/2019 08:35:52 Starting Directory Test
+05/03/2019 08:35:52 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 08:35:52 Runs started.
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 //== Loading NCOA data
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 Loading data starting
+05/03/2019 09:05:29 Loading NCOA data
+05/03/2019 09:05:29 Loading NCOA data was successful!
+05/03/2019 09:05:29 NCOA directory date: 20190415
+05/03/2019 09:05:29 Starting Directory Test
+05/03/2019 09:05:29 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 09:05:29 Loading data completed.
+05/03/2019 09:05:29 Runs started.
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 //== Purging aged ACS/FFMUN and PSR files
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 Purging aged ACS/FFMUN and PSR files has completed!
+05/03/2019 09:05:29 Next ACS/FFMUN and PSR file purge attempt will be at: Sat May 04 09:05:29 2019
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 //== Install of the 00 Table has begun
+05/03/2019 09:05:29 //========================================================
+05/03/2019 09:05:29 Runs paused.
+05/03/2019 09:05:29 Unloading NCOA data
+05/03/2019 09:05:29 Unloading NCOA data was successful!
+05/03/2019 09:05:32 dvdhdr01.dat download started 
+05/03/2019 09:05:33 dvdhdr01.dat download started 
+05/03/2019 09:05:33 dvdhdr01.dat downloaded successfully
+05/03/2019 09:05:33 The current 00 Table is the same version as the available download version
+05/03/2019 09:05:33 Next 00 Table download attempt will be at: Sun May 05 22:00:00 2019
+05/03/2019 09:05:33 Fulfillment Install 00 Table : the 00 Table is up to date
+05/03/2019 09:05:33 Loading NCOA data
+05/03/2019 09:05:33 Loading NCOA data was successful!
+05/03/2019 09:05:33 NCOA directory date: 20190415
+05/03/2019 09:05:33 Starting Directory Test
+05/03/2019 09:05:33 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 09:05:33 Runs started.
+05/03/2019 09:06:50 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:06:50 Transport 1: Run "4-11-20190503101146533" starting
+05/03/2019 09:13:13 Transport 1: Run "4-11-20190503101146533" Success
+05/03/2019 09:13:13 Transport 1: Run "4-11-20190503101146533" completed. Potential Total: 8, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 09:15:12 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:15:12 Transport 1: Run "4-11-20190503102009082" starting
+05/03/2019 09:19:09 //========================================================
+05/03/2019 09:19:09 //== Loading NCOA data
+05/03/2019 09:19:09 //========================================================
+05/03/2019 09:19:09 Loading data starting
+05/03/2019 09:19:09 Loading NCOA data
+05/03/2019 09:19:10 Loading NCOA data was successful!
+05/03/2019 09:19:10 NCOA directory date: 20190415
+05/03/2019 09:19:10 Starting Directory Test
+05/03/2019 09:19:10 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 09:19:10 Loading data completed.
+05/03/2019 09:19:10 Runs started.
+05/03/2019 09:19:10 //========================================================
+05/03/2019 09:19:10 //== Purging aged ACS/FFMUN and PSR files
+05/03/2019 09:19:10 //========================================================
+05/03/2019 09:19:10 Purging aged ACS/FFMUN and PSR files has completed!
+05/03/2019 09:19:10 Next ACS/FFMUN and PSR file purge attempt will be at: Sat May 04 09:19:10 2019
+05/03/2019 09:19:10 //========================================================
+05/03/2019 09:19:10 //== Install of the 00 Table has begun
+05/03/2019 09:19:10 //========================================================
+05/03/2019 09:19:10 Runs paused.
+05/03/2019 09:19:10 Unloading NCOA data
+05/03/2019 09:19:10 Unloading NCOA data was successful!
+05/03/2019 09:19:13 dvdhdr01.dat download started 
+05/03/2019 09:19:13 dvdhdr01.dat download started 
+05/03/2019 09:19:13 dvdhdr01.dat downloaded successfully
+05/03/2019 09:19:13 The current 00 Table is the same version as the available download version
+05/03/2019 09:19:13 Next 00 Table download attempt will be at: Sun May 05 22:00:00 2019
+05/03/2019 09:19:13 Fulfillment Install 00 Table : the 00 Table is up to date
+05/03/2019 09:19:13 Loading NCOA data
+05/03/2019 09:19:13 Loading NCOA data was successful!
+05/03/2019 09:19:13 NCOA directory date: 20190415
+05/03/2019 09:19:13 Starting Directory Test
+05/03/2019 09:19:13 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/03/2019 09:19:13 Runs started.
+05/03/2019 09:20:07 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("4-11-20190503102009082")
+05/03/2019 09:20:16 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:20:16 Transport 1: Run "4-11-20190503102512444" starting
+05/03/2019 09:31:16 Transport 1: Run "4-11-20190503102512444" Success
+05/03/2019 09:31:16 Transport 1: Run "4-11-20190503102512444" completed. Potential Total: 4, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 09:32:37 Transport 1: End Run Unsuccessful, ErrorCode = 2, Invalid Run Id! ("4-11-20190503102512444")
+05/03/2019 09:33:21 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:33:21 Transport 1: Run "4-11-20190503103817110" starting
+05/03/2019 09:45:57 Transport 1: Run "4-11-20190503103817110" Success
+05/03/2019 09:45:57 Transport 1: Run "4-11-20190503103817110" completed. Potential Total: 2622, Potential Matched: 128, Potential Timeouts: 0, Actual Total: 128, Actual Moved: 12, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 5, Errors: 0
+05/03/2019 09:46:01 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:46:01 Transport 1: Run "4-11-20190503105057328" starting
+05/03/2019 09:46:15 Transport 1: Run "4-11-20190503105057328" Success
+05/03/2019 09:46:15 Transport 1: Run "4-11-20190503105057328" completed. Potential Total: 38, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 09:46:18 Transport 1: Run "4-11-20190503105115136" starting
+05/03/2019 09:46:27 Transport 1: Run "4-11-20190503105115136" Success
+05/03/2019 09:46:27 Transport 1: Run "4-11-20190503105115136" completed. Potential Total: 5, Potential Matched: 5, Potential Timeouts: 0, Actual Total: 5, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 09:46:31 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:46:31 Transport 1: Run "4-11-20190503105127441" starting
+05/03/2019 09:50:14 Transport 1: Run "4-11-20190503105127441" Success
+05/03/2019 09:50:14 Transport 1: Run "4-11-20190503105127441" completed. Potential Total: 119, Potential Matched: 28, Potential Timeouts: 0, Actual Total: 28, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 2, Errors: 0
+05/03/2019 09:50:18 Transport 1: Run "4-11-20190503105514357" starting
+05/03/2019 09:50:25 Transport 1: Run "4-11-20190503105514357" Success
+05/03/2019 09:50:25 Transport 1: Run "4-11-20190503105514357" completed. Potential Total: 2, Potential Matched: 2, Potential Timeouts: 0, Actual Total: 2, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 09:50:29 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 09:50:29 Transport 1: Run "4-11-20190503105525314" starting
+05/03/2019 10:01:06 Transport 1: Run "4-11-20190503105525314" Success
+05/03/2019 10:01:06 Transport 1: Run "4-11-20190503105525314" completed. Potential Total: 1276, Potential Matched: 199, Potential Timeouts: 0, Actual Total: 199, Actual Moved: 12, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 2, Errors: 0
+05/03/2019 10:01:08 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 10:01:08 Transport 1: Run "4-11-20190503110605144" starting
+05/03/2019 10:01:09 Transport 1: Run "4-11-20190503110605144" Run Kill Success
+05/03/2019 10:01:09 Transport 1: Run "4-11-20190503110605144" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 10:02:33 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 10:02:33 Transport 1: Run "4-11-20190503110729739" starting
+05/03/2019 10:02:49 Transport 1: Run "4-11-20190503110729739" Success
+05/03/2019 10:02:49 Transport 1: Run "4-11-20190503110729739" completed. Potential Total: 28, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 10:02:53 Transport 1: Run "4-11-20190503110749589" starting
+05/03/2019 10:03:14 Transport 1: Run "4-11-20190503110749589" Success
+05/03/2019 10:03:14 Transport 1: Run "4-11-20190503110749589" completed. Potential Total: 2, Potential Matched: 2, Potential Timeouts: 0, Actual Total: 2, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 10:03:18 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 10:03:18 Transport 1: Run "4-11-20190503110814761" starting
+05/03/2019 11:42:49 Transport 1: Run "4-11-20190503110814761" Success
+05/03/2019 11:42:49 Transport 1: Run "4-11-20190503110814761" completed. Potential Total: 3218, Potential Matched: 179, Potential Timeouts: 0, Actual Total: 179, Actual Moved: 14, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 10, Errors: 0
+05/03/2019 11:42:53 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 11:42:53 Transport 1: Run "4-11-20190503124749435" starting
+05/03/2019 11:43:05 Transport 1: Run "4-11-20190503124749435" Success
+05/03/2019 11:43:05 Transport 1: Run "4-11-20190503124749435" completed. Potential Total: 1, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 11:43:08 Transport 1: Run "4-11-20190503124805033" starting
+05/03/2019 11:43:46 Transport 1: Run "4-11-20190503124805033" Success
+05/03/2019 11:43:46 Transport 1: Run "4-11-20190503124805033" completed. Potential Total: 10, Potential Matched: 10, Potential Timeouts: 0, Actual Total: 10, Actual Moved: 1, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/03/2019 11:43:50 Transport 1: Data Services NCOA directory date: 20190415
+05/03/2019 11:43:50 Transport 1: Run "4-11-20190503124846603" starting
+05/03/2019 11:44:01 Transport 1: Run "4-11-20190503124846603" Success
+05/03/2019 11:44:01 Transport 1: Run "4-11-20190503124846603" completed. Potential Total: 1, Potential Matched: 1, Potential Timeouts: 0, Actual Total: 1, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0

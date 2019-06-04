@@ -1,0 +1,583 @@
+05/06/2019 06:12:12 //========================================================
+05/06/2019 06:12:12 //== Loading NCOA data
+05/06/2019 06:12:12 //========================================================
+05/06/2019 06:12:12 Loading data starting
+05/06/2019 06:12:12 Loading NCOA data
+05/06/2019 06:12:13 Loading NCOA data was successful!
+05/06/2019 06:12:13 NCOA directory date: 20190415
+05/06/2019 06:12:13 Starting Directory Test
+05/06/2019 06:12:13 Directory Test Performed, Total:2280, Matched:976, min time (us): 2000
+05/06/2019 06:12:13 Loading data completed.
+05/06/2019 06:12:13 Runs started.
+05/06/2019 06:12:13 //========================================================
+05/06/2019 06:12:13 //== Purging aged ACS/FFMUN and PSR files
+05/06/2019 06:12:13 //========================================================
+05/06/2019 06:12:13 Purging aged ACS/FFMUN and PSR files has completed!
+05/06/2019 06:12:13 Next ACS/FFMUN and PSR file purge attempt will be at: Tue May 07 06:12:13 2019
+05/06/2019 06:12:13 //========================================================
+05/06/2019 06:12:13 //== Install of the 00 Table has begun
+05/06/2019 06:12:13 //========================================================
+05/06/2019 06:12:13 Runs paused.
+05/06/2019 06:12:13 Unloading NCOA data
+05/06/2019 06:12:13 Unloading NCOA data was successful!
+05/06/2019 06:12:16 dvdhdr01.dat download started 
+05/06/2019 06:12:16 dvdhdr01.dat download started 
+05/06/2019 06:12:16 dvdhdr01.dat downloaded successfully
+05/06/2019 06:12:16 Validating c:\ncoaDatabase\table00update\
+05/06/2019 06:12:16 clk.a.hs00.zip download started 
+05/06/2019 06:12:17 clk.a.hs00.zip download started  (20%)
+05/06/2019 06:12:18 clk.a.hs00.zip download started  (30%)
+05/06/2019 06:12:18 clk.a.hs00.zip download started  (40%)
+05/06/2019 06:12:19 clk.a.hs00.zip download started  (50%)
+05/06/2019 06:12:19 clk.a.hs00.zip download started  (60%)
+05/06/2019 06:12:20 clk.a.hs00.zip download started  (70%)
+05/06/2019 06:12:20 clk.a.hs00.zip download started  (80%)
+05/06/2019 06:12:21 clk.a.hs00.zip download started  (90%)
+05/06/2019 06:12:21 clk.a.hs00.zip download started 
+05/06/2019 06:12:22 clk.a.hs00.zip download started 
+05/06/2019 06:12:22 clk.a.hs00.zip download started 
+05/06/2019 06:12:22 clk.a.hs00.zip downloaded successfully
+05/06/2019 06:12:22 clk.a.hs00.zip unzip successful
+05/06/2019 06:12:22 clk.b.hs00.zip download started 
+05/06/2019 06:12:23 clk.b.hs00.zip download started  (20%)
+05/06/2019 06:12:24 clk.b.hs00.zip download started  (30%)
+05/06/2019 06:12:24 clk.b.hs00.zip download started  (40%)
+05/06/2019 06:12:25 clk.b.hs00.zip download started  (50%)
+05/06/2019 06:12:25 clk.b.hs00.zip download started  (60%)
+05/06/2019 06:12:26 clk.b.hs00.zip download started  (70%)
+05/06/2019 06:12:26 clk.b.hs00.zip download started  (80%)
+05/06/2019 06:12:27 clk.b.hs00.zip download started  (90%)
+05/06/2019 06:12:28 clk.b.hs00.zip download started 
+05/06/2019 06:12:28 clk.b.hs00.zip download started 
+05/06/2019 06:12:28 clk.b.hs00.zip download started 
+05/06/2019 06:12:28 clk.b.hs00.zip downloaded successfully
+05/06/2019 06:12:28 clk.b.hs00.zip unzip successful
+05/06/2019 06:12:28 clk.c.hs00.zip download started 
+05/06/2019 06:12:29 clk.c.hs00.zip download started  (20%)
+05/06/2019 06:12:30 clk.c.hs00.zip download started  (30%)
+05/06/2019 06:12:30 clk.c.hs00.zip download started  (40%)
+05/06/2019 06:12:31 clk.c.hs00.zip download started  (50%)
+05/06/2019 06:12:32 clk.c.hs00.zip download started  (60%)
+05/06/2019 06:12:32 clk.c.hs00.zip download started  (70%)
+05/06/2019 06:12:33 clk.c.hs00.zip download started  (80%)
+05/06/2019 06:12:33 clk.c.hs00.zip download started  (90%)
+05/06/2019 06:12:34 clk.c.hs00.zip download started 
+05/06/2019 06:12:34 clk.c.hs00.zip download started 
+05/06/2019 06:12:34 clk.c.hs00.zip download started 
+05/06/2019 06:12:34 clk.c.hs00.zip downloaded successfully
+05/06/2019 06:12:35 clk.c.hs00.zip unzip successful
+05/06/2019 06:12:35 clk.d.hs00.zip download started 
+05/06/2019 06:12:35 clk.d.hs00.zip download started  (20%)
+05/06/2019 06:12:36 clk.d.hs00.zip download started  (30%)
+05/06/2019 06:12:37 clk.d.hs00.zip download started  (40%)
+05/06/2019 06:12:37 clk.d.hs00.zip download started  (50%)
+05/06/2019 06:12:38 clk.d.hs00.zip download started  (60%)
+05/06/2019 06:12:38 clk.d.hs00.zip download started  (70%)
+05/06/2019 06:12:39 clk.d.hs00.zip download started  (80%)
+05/06/2019 06:12:39 clk.d.hs00.zip download started  (90%)
+05/06/2019 06:12:40 clk.d.hs00.zip download started 
+05/06/2019 06:12:40 clk.d.hs00.zip download started 
+05/06/2019 06:12:41 clk.d.hs00.zip download started 
+05/06/2019 06:12:41 clk.d.hs00.zip downloaded successfully
+05/06/2019 06:12:41 clk.d.hs00.zip unzip successful
+05/06/2019 06:12:41 clk.e.hs00.zip download started 
+05/06/2019 06:12:42 clk.e.hs00.zip download started  (20%)
+05/06/2019 06:12:42 clk.e.hs00.zip download started  (30%)
+05/06/2019 06:12:43 clk.e.hs00.zip download started  (40%)
+05/06/2019 06:12:43 clk.e.hs00.zip download started  (50%)
+05/06/2019 06:12:44 clk.e.hs00.zip download started  (60%)
+05/06/2019 06:12:44 clk.e.hs00.zip download started  (70%)
+05/06/2019 06:12:45 clk.e.hs00.zip download started  (80%)
+05/06/2019 06:12:45 clk.e.hs00.zip download started  (90%)
+05/06/2019 06:12:46 clk.e.hs00.zip download started 
+05/06/2019 06:12:46 clk.e.hs00.zip download started 
+05/06/2019 06:12:46 clk.e.hs00.zip download started 
+05/06/2019 06:12:46 clk.e.hs00.zip downloaded successfully
+05/06/2019 06:12:47 clk.e.hs00.zip unzip successful
+05/06/2019 06:12:47 clk.f.hs00.zip download started 
+05/06/2019 06:12:47 clk.f.hs00.zip download started  (20%)
+05/06/2019 06:12:48 clk.f.hs00.zip download started  (30%)
+05/06/2019 06:12:48 clk.f.hs00.zip download started  (40%)
+05/06/2019 06:12:49 clk.f.hs00.zip download started  (50%)
+05/06/2019 06:12:49 clk.f.hs00.zip download started  (60%)
+05/06/2019 06:12:50 clk.f.hs00.zip download started  (70%)
+05/06/2019 06:12:50 clk.f.hs00.zip download started  (80%)
+05/06/2019 06:12:51 clk.f.hs00.zip download started  (90%)
+05/06/2019 06:12:52 clk.f.hs00.zip download started 
+05/06/2019 06:12:52 clk.f.hs00.zip download started 
+05/06/2019 06:12:52 clk.f.hs00.zip download started 
+05/06/2019 06:12:52 clk.f.hs00.zip downloaded successfully
+05/06/2019 06:12:52 clk.f.hs00.zip unzip successful
+05/06/2019 06:12:52 clk.g.hs00.zip download started 
+05/06/2019 06:12:53 clk.g.hs00.zip download started  (20%)
+05/06/2019 06:12:54 clk.g.hs00.zip download started  (30%)
+05/06/2019 06:12:54 clk.g.hs00.zip download started  (40%)
+05/06/2019 06:12:55 clk.g.hs00.zip download started  (50%)
+05/06/2019 06:12:55 clk.g.hs00.zip download started  (60%)
+05/06/2019 06:12:56 clk.g.hs00.zip download started  (70%)
+05/06/2019 06:12:56 clk.g.hs00.zip download started  (80%)
+05/06/2019 06:12:57 clk.g.hs00.zip download started  (90%)
+05/06/2019 06:12:57 clk.g.hs00.zip download started 
+05/06/2019 06:12:58 clk.g.hs00.zip download started 
+05/06/2019 06:12:58 clk.g.hs00.zip download started 
+05/06/2019 06:12:58 clk.g.hs00.zip downloaded successfully
+05/06/2019 06:12:58 clk.g.hs00.zip unzip successful
+05/06/2019 06:12:58 clk.h.hs00.zip download started 
+05/06/2019 06:12:59 clk.h.hs00.zip download started  (20%)
+05/06/2019 06:12:59 clk.h.hs00.zip download started  (30%)
+05/06/2019 06:13:00 clk.h.hs00.zip download started  (40%)
+05/06/2019 06:13:01 clk.h.hs00.zip download started  (50%)
+05/06/2019 06:13:01 clk.h.hs00.zip download started  (60%)
+05/06/2019 06:13:02 clk.h.hs00.zip download started  (70%)
+05/06/2019 06:13:02 clk.h.hs00.zip download started  (80%)
+05/06/2019 06:13:03 clk.h.hs00.zip download started  (90%)
+05/06/2019 06:13:03 clk.h.hs00.zip download started 
+05/06/2019 06:13:04 clk.h.hs00.zip download started 
+05/06/2019 06:13:04 clk.h.hs00.zip download started 
+05/06/2019 06:13:04 clk.h.hs00.zip downloaded successfully
+05/06/2019 06:13:04 clk.h.hs00.zip unzip successful
+05/06/2019 06:13:04 clk.i.hs00.zip download started 
+05/06/2019 06:13:05 clk.i.hs00.zip download started  (20%)
+05/06/2019 06:13:05 clk.i.hs00.zip download started  (30%)
+05/06/2019 06:13:06 clk.i.hs00.zip download started  (40%)
+05/06/2019 06:13:06 clk.i.hs00.zip download started  (50%)
+05/06/2019 06:13:07 clk.i.hs00.zip download started  (60%)
+05/06/2019 06:13:07 clk.i.hs00.zip download started  (70%)
+05/06/2019 06:13:08 clk.i.hs00.zip download started  (80%)
+05/06/2019 06:13:08 clk.i.hs00.zip download started  (90%)
+05/06/2019 06:13:09 clk.i.hs00.zip download started 
+05/06/2019 06:13:09 clk.i.hs00.zip download started 
+05/06/2019 06:13:10 clk.i.hs00.zip download started 
+05/06/2019 06:13:10 clk.i.hs00.zip downloaded successfully
+05/06/2019 06:13:10 clk.i.hs00.zip unzip successful
+05/06/2019 06:13:10 clk.j.hs00.zip download started 
+05/06/2019 06:13:11 clk.j.hs00.zip download started  (20%)
+05/06/2019 06:13:11 clk.j.hs00.zip download started  (30%)
+05/06/2019 06:13:12 clk.j.hs00.zip download started  (40%)
+05/06/2019 06:13:12 clk.j.hs00.zip download started  (50%)
+05/06/2019 06:13:13 clk.j.hs00.zip download started  (60%)
+05/06/2019 06:13:13 clk.j.hs00.zip download started  (70%)
+05/06/2019 06:13:14 clk.j.hs00.zip download started  (80%)
+05/06/2019 06:13:14 clk.j.hs00.zip download started  (90%)
+05/06/2019 06:13:15 clk.j.hs00.zip download started 
+05/06/2019 06:13:15 clk.j.hs00.zip download started 
+05/06/2019 06:13:15 clk.j.hs00.zip download started 
+05/06/2019 06:13:15 clk.j.hs00.zip downloaded successfully
+05/06/2019 06:13:15 clk.j.hs00.zip unzip successful
+05/06/2019 06:13:15 clk.k.hs00.zip download started 
+05/06/2019 06:13:16 clk.k.hs00.zip download started  (20%)
+05/06/2019 06:13:17 clk.k.hs00.zip download started  (30%)
+05/06/2019 06:13:17 clk.k.hs00.zip download started  (40%)
+05/06/2019 06:13:18 clk.k.hs00.zip download started  (50%)
+05/06/2019 06:13:19 clk.k.hs00.zip download started  (60%)
+05/06/2019 06:13:19 clk.k.hs00.zip download started  (70%)
+05/06/2019 06:13:20 clk.k.hs00.zip download started  (80%)
+05/06/2019 06:13:20 clk.k.hs00.zip download started  (90%)
+05/06/2019 06:13:21 clk.k.hs00.zip download started 
+05/06/2019 06:13:21 clk.k.hs00.zip download started 
+05/06/2019 06:13:21 clk.k.hs00.zip download started 
+05/06/2019 06:13:21 clk.k.hs00.zip downloaded successfully
+05/06/2019 06:13:21 clk.k.hs00.zip unzip successful
+05/06/2019 06:13:21 clk.l.hs00.zip download started 
+05/06/2019 06:13:22 clk.l.hs00.zip download started  (20%)
+05/06/2019 06:13:23 clk.l.hs00.zip download started  (30%)
+05/06/2019 06:13:23 clk.l.hs00.zip download started  (40%)
+05/06/2019 06:13:24 clk.l.hs00.zip download started  (50%)
+05/06/2019 06:13:24 clk.l.hs00.zip download started  (60%)
+05/06/2019 06:13:25 clk.l.hs00.zip download started  (70%)
+05/06/2019 06:13:25 clk.l.hs00.zip download started  (80%)
+05/06/2019 06:13:26 clk.l.hs00.zip download started  (90%)
+05/06/2019 06:13:26 clk.l.hs00.zip download started 
+05/06/2019 06:13:27 clk.l.hs00.zip download started 
+05/06/2019 06:13:27 clk.l.hs00.zip download started 
+05/06/2019 06:13:27 clk.l.hs00.zip downloaded successfully
+05/06/2019 06:13:27 clk.l.hs00.zip unzip successful
+05/06/2019 06:13:27 clk.m.hs00.zip download started 
+05/06/2019 06:13:28 clk.m.hs00.zip download started  (20%)
+05/06/2019 06:13:28 clk.m.hs00.zip download started  (30%)
+05/06/2019 06:13:29 clk.m.hs00.zip download started  (40%)
+05/06/2019 06:13:30 clk.m.hs00.zip download started  (50%)
+05/06/2019 06:13:30 clk.m.hs00.zip download started  (60%)
+05/06/2019 06:13:31 clk.m.hs00.zip download started  (70%)
+05/06/2019 06:13:31 clk.m.hs00.zip download started  (80%)
+05/06/2019 06:13:32 clk.m.hs00.zip download started  (90%)
+05/06/2019 06:13:32 clk.m.hs00.zip download started 
+05/06/2019 06:13:33 clk.m.hs00.zip download started 
+05/06/2019 06:13:33 clk.m.hs00.zip download started 
+05/06/2019 06:13:33 clk.m.hs00.zip downloaded successfully
+05/06/2019 06:13:33 clk.m.hs00.zip unzip successful
+05/06/2019 06:13:33 clk.n.hs00.zip download started 
+05/06/2019 06:13:34 clk.n.hs00.zip download started  (20%)
+05/06/2019 06:13:34 clk.n.hs00.zip download started  (30%)
+05/06/2019 06:13:35 clk.n.hs00.zip download started  (40%)
+05/06/2019 06:13:35 clk.n.hs00.zip download started  (50%)
+05/06/2019 06:13:36 clk.n.hs00.zip download started  (60%)
+05/06/2019 06:13:36 clk.n.hs00.zip download started  (70%)
+05/06/2019 06:13:37 clk.n.hs00.zip download started  (80%)
+05/06/2019 06:13:38 clk.n.hs00.zip download started  (90%)
+05/06/2019 06:13:38 clk.n.hs00.zip download started 
+05/06/2019 06:13:39 clk.n.hs00.zip download started 
+05/06/2019 06:13:39 clk.n.hs00.zip download started 
+05/06/2019 06:13:39 clk.n.hs00.zip downloaded successfully
+05/06/2019 06:13:39 clk.n.hs00.zip unzip successful
+05/06/2019 06:13:39 clk.o.hs00.zip download started 
+05/06/2019 06:13:40 clk.o.hs00.zip download started  (20%)
+05/06/2019 06:13:40 clk.o.hs00.zip download started  (30%)
+05/06/2019 06:13:41 clk.o.hs00.zip download started  (40%)
+05/06/2019 06:13:41 clk.o.hs00.zip download started  (50%)
+05/06/2019 06:13:42 clk.o.hs00.zip download started  (60%)
+05/06/2019 06:13:43 clk.o.hs00.zip download started  (70%)
+05/06/2019 06:13:43 clk.o.hs00.zip download started  (80%)
+05/06/2019 06:13:44 clk.o.hs00.zip download started  (90%)
+05/06/2019 06:13:44 clk.o.hs00.zip download started 
+05/06/2019 06:13:45 clk.o.hs00.zip download started 
+05/06/2019 06:13:45 clk.o.hs00.zip download started 
+05/06/2019 06:13:45 clk.o.hs00.zip downloaded successfully
+05/06/2019 06:13:45 clk.o.hs00.zip unzip successful
+05/06/2019 06:13:45 clk.p.hs00.zip download started 
+05/06/2019 06:13:46 clk.p.hs00.zip download started  (20%)
+05/06/2019 06:13:47 clk.p.hs00.zip download started  (30%)
+05/06/2019 06:13:47 clk.p.hs00.zip download started  (40%)
+05/06/2019 06:13:48 clk.p.hs00.zip download started  (50%)
+05/06/2019 06:13:48 clk.p.hs00.zip download started  (60%)
+05/06/2019 06:13:49 clk.p.hs00.zip download started  (70%)
+05/06/2019 06:13:49 clk.p.hs00.zip download started  (80%)
+05/06/2019 06:13:50 clk.p.hs00.zip download started  (90%)
+05/06/2019 06:13:51 clk.p.hs00.zip download started 
+05/06/2019 06:13:51 clk.p.hs00.zip download started 
+05/06/2019 06:13:51 clk.p.hs00.zip download started 
+05/06/2019 06:13:51 clk.p.hs00.zip downloaded successfully
+05/06/2019 06:13:51 clk.p.hs00.zip unzip successful
+05/06/2019 06:13:51 clk.q.hs00.zip download started 
+05/06/2019 06:13:52 clk.q.hs00.zip download started  (20%)
+05/06/2019 06:13:53 clk.q.hs00.zip download started  (30%)
+05/06/2019 06:13:53 clk.q.hs00.zip download started  (40%)
+05/06/2019 06:13:54 clk.q.hs00.zip download started  (50%)
+05/06/2019 06:13:54 clk.q.hs00.zip download started  (60%)
+05/06/2019 06:13:55 clk.q.hs00.zip download started  (70%)
+05/06/2019 06:13:55 clk.q.hs00.zip download started  (80%)
+05/06/2019 06:13:56 clk.q.hs00.zip download started  (90%)
+05/06/2019 06:13:57 clk.q.hs00.zip download started 
+05/06/2019 06:13:57 clk.q.hs00.zip download started 
+05/06/2019 06:13:57 clk.q.hs00.zip download started 
+05/06/2019 06:13:57 clk.q.hs00.zip downloaded successfully
+05/06/2019 06:13:57 clk.q.hs00.zip unzip successful
+05/06/2019 06:13:57 clk.r.hs00.zip download started 
+05/06/2019 06:13:58 clk.r.hs00.zip download started  (20%)
+05/06/2019 06:13:59 clk.r.hs00.zip download started  (30%)
+05/06/2019 06:13:59 clk.r.hs00.zip download started  (40%)
+05/06/2019 06:14:00 clk.r.hs00.zip download started  (50%)
+05/06/2019 06:14:00 clk.r.hs00.zip download started  (60%)
+05/06/2019 06:14:01 clk.r.hs00.zip download started  (70%)
+05/06/2019 06:14:02 clk.r.hs00.zip download started  (80%)
+05/06/2019 06:14:02 clk.r.hs00.zip download started  (90%)
+05/06/2019 06:14:03 clk.r.hs00.zip download started 
+05/06/2019 06:14:03 clk.r.hs00.zip download started 
+05/06/2019 06:14:03 clk.r.hs00.zip download started 
+05/06/2019 06:14:03 clk.r.hs00.zip downloaded successfully
+05/06/2019 06:14:03 clk.r.hs00.zip unzip successful
+05/06/2019 06:14:03 clk.s.hs00.zip download started 
+05/06/2019 06:14:04 clk.s.hs00.zip download started  (20%)
+05/06/2019 06:14:05 clk.s.hs00.zip download started  (30%)
+05/06/2019 06:14:06 clk.s.hs00.zip download started  (40%)
+05/06/2019 06:14:06 clk.s.hs00.zip download started  (50%)
+05/06/2019 06:14:07 clk.s.hs00.zip download started  (60%)
+05/06/2019 06:14:07 clk.s.hs00.zip download started  (70%)
+05/06/2019 06:14:08 clk.s.hs00.zip download started  (80%)
+05/06/2019 06:14:08 clk.s.hs00.zip download started  (90%)
+05/06/2019 06:14:09 clk.s.hs00.zip download started 
+05/06/2019 06:14:09 clk.s.hs00.zip download started 
+05/06/2019 06:14:10 clk.s.hs00.zip download started 
+05/06/2019 06:14:10 clk.s.hs00.zip downloaded successfully
+05/06/2019 06:14:10 clk.s.hs00.zip unzip successful
+05/06/2019 06:14:10 clk.t.hs00.zip download started 
+05/06/2019 06:14:11 clk.t.hs00.zip download started  (20%)
+05/06/2019 06:14:11 clk.t.hs00.zip download started  (30%)
+05/06/2019 06:14:12 clk.t.hs00.zip download started  (40%)
+05/06/2019 06:14:12 clk.t.hs00.zip download started  (50%)
+05/06/2019 06:14:13 clk.t.hs00.zip download started  (60%)
+05/06/2019 06:14:13 clk.t.hs00.zip download started  (70%)
+05/06/2019 06:14:14 clk.t.hs00.zip download started  (80%)
+05/06/2019 06:14:14 clk.t.hs00.zip download started  (90%)
+05/06/2019 06:14:15 clk.t.hs00.zip download started 
+05/06/2019 06:14:15 clk.t.hs00.zip download started 
+05/06/2019 06:14:15 clk.t.hs00.zip download started 
+05/06/2019 06:14:15 clk.t.hs00.zip downloaded successfully
+05/06/2019 06:14:15 clk.t.hs00.zip unzip successful
+05/06/2019 06:14:15 clk.u.hs00.zip download started 
+05/06/2019 06:14:16 clk.u.hs00.zip download started  (20%)
+05/06/2019 06:14:17 clk.u.hs00.zip download started  (30%)
+05/06/2019 06:14:17 clk.u.hs00.zip download started  (40%)
+05/06/2019 06:14:18 clk.u.hs00.zip download started  (50%)
+05/06/2019 06:14:18 clk.u.hs00.zip download started  (60%)
+05/06/2019 06:14:19 clk.u.hs00.zip download started  (70%)
+05/06/2019 06:14:20 clk.u.hs00.zip download started  (80%)
+05/06/2019 06:14:20 clk.u.hs00.zip download started  (90%)
+05/06/2019 06:14:21 clk.u.hs00.zip download started 
+05/06/2019 06:14:21 clk.u.hs00.zip download started 
+05/06/2019 06:14:21 clk.u.hs00.zip download started 
+05/06/2019 06:14:21 clk.u.hs00.zip downloaded successfully
+05/06/2019 06:14:21 clk.u.hs00.zip unzip successful
+05/06/2019 06:14:21 clk.v.hs00.zip download started 
+05/06/2019 06:14:22 clk.v.hs00.zip download started  (20%)
+05/06/2019 06:14:23 clk.v.hs00.zip download started  (30%)
+05/06/2019 06:14:23 clk.v.hs00.zip download started  (40%)
+05/06/2019 06:14:24 clk.v.hs00.zip download started  (50%)
+05/06/2019 06:14:24 clk.v.hs00.zip download started  (60%)
+05/06/2019 06:14:25 clk.v.hs00.zip download started  (70%)
+05/06/2019 06:14:25 clk.v.hs00.zip download started  (80%)
+05/06/2019 06:14:26 clk.v.hs00.zip download started  (90%)
+05/06/2019 06:14:27 clk.v.hs00.zip download started 
+05/06/2019 06:14:27 clk.v.hs00.zip download started 
+05/06/2019 06:14:27 clk.v.hs00.zip download started 
+05/06/2019 06:14:27 clk.v.hs00.zip downloaded successfully
+05/06/2019 06:14:27 clk.v.hs00.zip unzip successful
+05/06/2019 06:14:27 clk.w.hs00.zip download started 
+05/06/2019 06:14:28 clk.w.hs00.zip download started  (20%)
+05/06/2019 06:14:29 clk.w.hs00.zip download started  (30%)
+05/06/2019 06:14:29 clk.w.hs00.zip download started  (40%)
+05/06/2019 06:14:30 clk.w.hs00.zip download started  (50%)
+05/06/2019 06:14:30 clk.w.hs00.zip download started  (60%)
+05/06/2019 06:14:31 clk.w.hs00.zip download started  (70%)
+05/06/2019 06:14:31 clk.w.hs00.zip download started  (80%)
+05/06/2019 06:14:32 clk.w.hs00.zip download started  (90%)
+05/06/2019 06:14:32 clk.w.hs00.zip download started 
+05/06/2019 06:14:33 clk.w.hs00.zip download started 
+05/06/2019 06:14:33 clk.w.hs00.zip download started 
+05/06/2019 06:14:33 clk.w.hs00.zip downloaded successfully
+05/06/2019 06:14:33 clk.w.hs00.zip unzip successful
+05/06/2019 06:14:33 clk.x.hs00.zip download started 
+05/06/2019 06:14:34 clk.x.hs00.zip download started  (20%)
+05/06/2019 06:14:34 clk.x.hs00.zip download started  (30%)
+05/06/2019 06:14:35 clk.x.hs00.zip download started  (40%)
+05/06/2019 06:14:36 clk.x.hs00.zip download started  (50%)
+05/06/2019 06:14:36 clk.x.hs00.zip download started  (60%)
+05/06/2019 06:14:37 clk.x.hs00.zip download started  (70%)
+05/06/2019 06:14:37 clk.x.hs00.zip download started  (80%)
+05/06/2019 06:14:38 clk.x.hs00.zip download started  (90%)
+05/06/2019 06:14:38 clk.x.hs00.zip download started 
+05/06/2019 06:14:39 clk.x.hs00.zip download started 
+05/06/2019 06:14:39 clk.x.hs00.zip download started 
+05/06/2019 06:14:39 clk.x.hs00.zip downloaded successfully
+05/06/2019 06:14:39 clk.x.hs00.zip unzip successful
+05/06/2019 06:14:39 clk.y.hs00.zip download started 
+05/06/2019 06:14:40 clk.y.hs00.zip download started  (20%)
+05/06/2019 06:14:41 clk.y.hs00.zip download started  (30%)
+05/06/2019 06:14:41 clk.y.hs00.zip download started  (40%)
+05/06/2019 06:14:42 clk.y.hs00.zip download started  (50%)
+05/06/2019 06:14:42 clk.y.hs00.zip download started  (60%)
+05/06/2019 06:14:43 clk.y.hs00.zip download started  (70%)
+05/06/2019 06:14:43 clk.y.hs00.zip download started  (80%)
+05/06/2019 06:14:44 clk.y.hs00.zip download started  (90%)
+05/06/2019 06:14:44 clk.y.hs00.zip download started 
+05/06/2019 06:14:45 clk.y.hs00.zip download started 
+05/06/2019 06:14:45 clk.y.hs00.zip download started 
+05/06/2019 06:14:45 clk.y.hs00.zip downloaded successfully
+05/06/2019 06:14:45 clk.y.hs00.zip unzip successful
+05/06/2019 06:14:45 clk.z.hs00.zip download started 
+05/06/2019 06:14:46 clk.z.hs00.zip download started  (20%)
+05/06/2019 06:14:47 clk.z.hs00.zip download started  (30%)
+05/06/2019 06:14:47 clk.z.hs00.zip download started  (40%)
+05/06/2019 06:14:48 clk.z.hs00.zip download started  (50%)
+05/06/2019 06:14:48 clk.z.hs00.zip download started  (60%)
+05/06/2019 06:14:49 clk.z.hs00.zip download started  (70%)
+05/06/2019 06:14:49 clk.z.hs00.zip download started  (80%)
+05/06/2019 06:14:50 clk.z.hs00.zip download started  (90%)
+05/06/2019 06:14:50 clk.z.hs00.zip download started 
+05/06/2019 06:14:51 clk.z.hs00.zip download started 
+05/06/2019 06:14:51 clk.z.hs00.zip download started 
+05/06/2019 06:14:51 clk.z.hs00.zip downloaded successfully
+05/06/2019 06:14:51 clk.z.hs00.zip unzip successful
+05/06/2019 06:14:51 contents.lst.zip download started 
+05/06/2019 06:14:51 contents.lst.zip download started  (20%)
+05/06/2019 06:14:51 contents.lst.zip download started  (30%)
+05/06/2019 06:14:51 contents.lst.zip download started  (40%)
+05/06/2019 06:14:51 contents.lst.zip download started  (50%)
+05/06/2019 06:14:51 contents.lst.zip download started  (60%)
+05/06/2019 06:14:51 contents.lst.zip download started  (70%)
+05/06/2019 06:14:51 contents.lst.zip download started 
+05/06/2019 06:14:51 contents.lst.zip downloaded successfully
+05/06/2019 06:14:51 contents.lst.zip unzip successful
+05/06/2019 06:14:51 lcd.zip download started 
+05/06/2019 06:14:55 lcd.zip download started  (20%)
+05/06/2019 06:14:57 lcd.zip download started  (30%)
+05/06/2019 06:14:59 lcd.zip download started  (40%)
+05/06/2019 06:15:01 lcd.zip download started  (50%)
+05/06/2019 06:15:03 lcd.zip download started  (60%)
+05/06/2019 06:15:06 lcd.zip download started  (70%)
+05/06/2019 06:15:08 lcd.zip download started  (80%)
+05/06/2019 06:15:10 lcd.zip download started  (90%)
+05/06/2019 06:15:12 lcd.zip download started 
+05/06/2019 06:15:14 lcd.zip download started 
+05/06/2019 06:15:15 lcd.zip download started 
+05/06/2019 06:15:15 lcd.zip downloaded successfully
+05/06/2019 06:15:15 lcd.zip unzip successful
+05/06/2019 06:15:15 Download portion of Install 00 Table was successful!
+05/06/2019 06:15:15 //========================================================
+05/06/2019 06:15:15 //== Validating Update 00 Folder
+05/06/2019 06:15:15 //========================================================
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.a.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.b.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.c.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.d.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.e.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.f.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.g.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.h.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.i.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.j.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.k.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.l.hs00
+05/06/2019 06:15:15 Validating c:\ncoaDatabase\table00update\clk.m.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.n.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.o.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.p.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.q.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.r.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.s.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.t.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.u.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.v.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.w.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.x.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.y.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\clk.z.hs00
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\contents.lst
+05/06/2019 06:15:16 Validating c:\ncoaDatabase\table00update\lcd
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00update\ was successful!
+05/06/2019 06:15:17 //========================================================
+05/06/2019 06:15:17 //== Validating Current 00 Folder
+05/06/2019 06:15:17 //========================================================
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.a.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.b.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.c.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.d.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.e.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.f.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.g.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.h.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.i.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.j.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.k.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.l.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.m.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.n.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.o.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.p.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.q.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.r.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.s.hs00
+05/06/2019 06:15:17 Validating c:\ncoaDatabase\table00\clk.t.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.u.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.v.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.w.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.x.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.y.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\clk.z.hs00
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\contents.lst
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\lcd
+05/06/2019 06:15:18 Validating c:\ncoaDatabase\table00\ was successful!
+05/06/2019 06:15:18 Moving c:\ncoaDatabase\table00\ to c:\ncoaDatabase\table00previous\ on 05/06/2019
+05/06/2019 06:15:18 Deleting files in c:\ncoaDatabase\table00previous\
+05/06/2019 06:15:18 Renaming c:\ncoaDatabase\table00\ to c:\ncoaDatabase\table00previous\
+05/06/2019 06:15:18 //========================================================
+05/06/2019 06:15:18 //== Making Update 00 Folder the Current 00 Folder
+05/06/2019 06:15:18 //========================================================
+05/06/2019 06:15:18 Moving c:\ncoaDatabase\table00update\ to c:\ncoaDatabase\table00\ on 05/06/2019
+05/06/2019 06:15:18 Deleting files in c:\ncoaDatabase\table00\
+05/06/2019 06:15:18 Renaming c:\ncoaDatabase\table00update\ to c:\ncoaDatabase\table00\
+05/06/2019 06:15:18 Next 00 Table download attempt will be at: Sun May 12 22:00:00 2019
+05/06/2019 06:15:18 Install of 00 Table was completed was successful!
+05/06/2019 06:15:18 Loading NCOA data
+05/06/2019 06:15:18 Loading NCOA data was successful!
+05/06/2019 06:15:18 NCOA directory date: 20190422
+05/06/2019 06:15:18 Starting Directory Test
+05/06/2019 06:15:18 Directory Test Performed, Total:2280, Matched:979, min time (us): 2000
+05/06/2019 06:15:18 Runs started.
+05/06/2019 10:21:53 //========================================================
+05/06/2019 10:21:53 //== Loading NCOA data
+05/06/2019 10:21:53 //========================================================
+05/06/2019 10:21:53 Loading data starting
+05/06/2019 10:21:53 Loading NCOA data
+05/06/2019 10:21:54 Loading NCOA data was successful!
+05/06/2019 10:21:54 NCOA directory date: 20190422
+05/06/2019 10:21:54 Starting Directory Test
+05/06/2019 10:21:54 Directory Test Performed, Total:2280, Matched:979, min time (us): 2000
+05/06/2019 10:21:54 Loading data completed.
+05/06/2019 10:21:54 Runs started.
+05/06/2019 10:21:54 //========================================================
+05/06/2019 10:21:54 //== Purging aged ACS/FFMUN and PSR files
+05/06/2019 10:21:54 //========================================================
+05/06/2019 10:21:54 Purging aged ACS/FFMUN and PSR files has completed!
+05/06/2019 10:21:54 Next ACS/FFMUN and PSR file purge attempt will be at: Tue May 07 10:21:54 2019
+05/06/2019 10:21:54 //========================================================
+05/06/2019 10:21:54 //== Install of the 00 Table has begun
+05/06/2019 10:21:54 //========================================================
+05/06/2019 10:21:54 Runs paused.
+05/06/2019 10:21:54 Unloading NCOA data
+05/06/2019 10:21:54 Unloading NCOA data was successful!
+05/06/2019 10:21:57 dvdhdr01.dat download started 
+05/06/2019 10:21:57 dvdhdr01.dat download started 
+05/06/2019 10:21:57 dvdhdr01.dat downloaded successfully
+05/06/2019 10:21:57 The current 00 Table is the same version as the available download version
+05/06/2019 10:21:57 Next 00 Table download attempt will be at: Sun May 12 22:00:00 2019
+05/06/2019 10:21:57 Fulfillment Install 00 Table : the 00 Table is up to date
+05/06/2019 10:21:57 Loading NCOA data
+05/06/2019 10:21:57 Loading NCOA data was successful!
+05/06/2019 10:21:57 NCOA directory date: 20190422
+05/06/2019 10:21:57 Starting Directory Test
+05/06/2019 10:21:57 Directory Test Performed, Total:2280, Matched:979, min time (us): 2000
+05/06/2019 10:21:57 Runs started.
+05/06/2019 10:25:26 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 10:25:26 Transport 1: Run "4-11-20190506113029177" starting
+05/06/2019 10:50:05 Transport 1: Run "4-11-20190506113029177" Run Kill Success
+05/06/2019 10:50:05 Transport 1: Run "4-11-20190506113029177" completed. Potential Total: 0, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 10:50:06 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 10:50:06 Transport 1: Run "4-11-20190506115509235" starting
+05/06/2019 11:02:15 Transport 1: Run "4-11-20190506115509235" Success
+05/06/2019 11:02:15 Transport 1: Run "4-11-20190506115509235" completed. Potential Total: 1464, Potential Matched: 77, Potential Timeouts: 0, Actual Total: 77, Actual Moved: 15, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:02:19 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:02:19 Transport 1: Run "4-11-20190506120722725" starting
+05/06/2019 11:02:42 Transport 1: Run "4-11-20190506120722725" Success
+05/06/2019 11:02:42 Transport 1: Run "4-11-20190506120722725" completed. Potential Total: 5, Potential Matched: 0, Potential Timeouts: 0, Actual Total: 0, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:02:46 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:02:46 Transport 1: Run "4-11-20190506120749012" starting
+05/06/2019 11:13:58 Transport 1: Run "4-11-20190506120749012" Success
+05/06/2019 11:13:58 Transport 1: Run "4-11-20190506120749012" completed. Potential Total: 2813, Potential Matched: 325, Potential Timeouts: 0, Actual Total: 325, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 4, Errors: 0
+05/06/2019 11:14:02 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:14:02 Transport 1: Run "4-11-20190506121905597" starting
+05/06/2019 11:17:28 Transport 1: Run "4-11-20190506121905597" Success
+05/06/2019 11:17:28 Transport 1: Run "4-11-20190506121905597" completed. Potential Total: 410, Potential Matched: 41, Potential Timeouts: 0, Actual Total: 41, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:17:31 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:17:31 Transport 1: Run "4-11-20190506122234973" starting
+05/06/2019 11:39:54 Transport 1: Run "4-11-20190506122234973" Success
+05/06/2019 11:39:54 Transport 1: Run "4-11-20190506122234973" completed. Potential Total: 5900, Potential Matched: 969, Potential Timeouts: 0, Actual Total: 969, Actual Moved: 140, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 4, Errors: 0
+05/06/2019 11:39:54 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:39:54 Transport 1: Run "4-11-20190506124457389" starting
+05/06/2019 11:40:17 Transport 1: Run "4-11-20190506124457389" Success
+05/06/2019 11:40:17 Transport 1: Run "4-11-20190506124457389" completed. Potential Total: 12, Potential Matched: 5, Potential Timeouts: 0, Actual Total: 5, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:40:18 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:40:18 Transport 1: Run "4-11-20190506124521242" starting
+05/06/2019 11:41:09 Transport 1: Run "4-11-20190506124521242" Success
+05/06/2019 11:41:09 Transport 1: Run "4-11-20190506124521242" completed. Potential Total: 12, Potential Matched: 8, Potential Timeouts: 0, Actual Total: 8, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:41:09 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:41:09 Transport 1: Run "4-11-20190506124612532" starting
+05/06/2019 11:42:04 Transport 1: Run "4-11-20190506124612532" Success
+05/06/2019 11:42:04 Transport 1: Run "4-11-20190506124612532" completed. Potential Total: 13, Potential Matched: 10, Potential Timeouts: 0, Actual Total: 10, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:42:04 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:42:04 Transport 1: Run "4-11-20190506124707625" starting
+05/06/2019 11:42:21 Transport 1: Run "4-11-20190506124707625" Success
+05/06/2019 11:42:21 Transport 1: Run "4-11-20190506124707625" completed. Potential Total: 12, Potential Matched: 7, Potential Timeouts: 0, Actual Total: 7, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:43:04 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:43:04 Transport 1: Run "4-11-20190506124807610" starting
+05/06/2019 11:52:43 Transport 1: Run "4-11-20190506124807610" Success
+05/06/2019 11:52:43 Transport 1: Run "4-11-20190506124807610" completed. Potential Total: 2784, Potential Matched: 234, Potential Timeouts: 0, Actual Total: 234, Actual Moved: 11, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:52:47 Transport 1: Data Services NCOA directory date: 20190422
+05/06/2019 11:52:47 Transport 1: Run "4-11-20190506125750487" starting
+05/06/2019 11:53:12 Transport 1: Run "4-11-20190506125750487" Success
+05/06/2019 11:53:12 Transport 1: Run "4-11-20190506125750487" completed. Potential Total: 26, Potential Matched: 4, Potential Timeouts: 0, Actual Total: 4, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+05/06/2019 11:53:16 Transport 1: Run "4-11-20190506125819183" starting
+05/06/2019 11:53:58 Transport 1: Run "4-11-20190506125819183" Success
+05/06/2019 11:53:58 Transport 1: Run "4-11-20190506125819183" completed. Potential Total: 7, Potential Matched: 7, Potential Timeouts: 0, Actual Total: 7, Actual Moved: 2, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0

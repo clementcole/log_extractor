@@ -1,0 +1,53 @@
+Transport 1: Run "7-5-20190423143225481" completed. Potential Total: 151, Potential Matched: 21, Potential Timeouts: 0, Actual Total: 21, Actual Moved: 2, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+
+---------- Timing Histograms ----------
+
+NameVariations ( Count: 42 Min: 4 Max: 576 Average: 325)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	570	
+Count	6	1	0	2	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	0	0	0	0	0	8	0	0	0	0	5	0	0	0	0	0	0	0	1	0	0	0	0	0	11	
+
+TotalTimeInSystem(Ms) ( Count: 21 Min: 53 Max: 135 Average: 89)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	
+Count	0	0	0	0	0	2	3	4	3	3	0	2	3	1	
+
+TimeRemainingAtReceipt(Ms) ( Count: 21 Min: 554 Max: 617 Average: 604)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	570	580	590	600	610	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	12	7	
+
+CheckMoveRequestsPerSecond ( Count: 9 Min: 1 Max: 6 Average: 3)
+Range	0	5	
+Count	8	1	
+
+LookupQueryTime(Ms) ( Count: 21 Min: 9 Max: 78 Average: 42)
+Range	0	10	20	30	40	50	60	70	
+Count	1	1	3	6	3	3	0	4	
+
+TotalProcessTime(Ms) ( Count: 21 Min: 53 Max: 135 Average: 89)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	
+Count	0	0	0	0	0	2	3	4	3	3	0	2	3	1	
+
+CloudLookupTravelAndProcessTime(Ms) ( Count: 21 Min: 53 Max: 135 Average: 89)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	
+Count	0	0	0	0	0	2	3	4	3	3	0	2	3	1	
+
+CloudLookupTravelTime(Ms) ( Count: 21 Min: 41 Max: 84 Average: 47)
+Range	0	10	20	30	40	50	60	70	80	
+Count	0	0	0	0	19	0	0	1	1	
+
+ResponseSendTime(Ms) ( Count: 172 Min: 0 Max: 1 Average: 0)
+Range	0	
+Count	172	
+
+
+---------- Global Timing Histograms ----------
+
+TimeRemainingAtReceipt(Ms) ( Count: 4155 Min: 382 Max: 633 Average: 597)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	570	580	590	600	610	620	630	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	1	2	0	0	0	0	25	181	0	431	0	182	226	0	1370	1724	0	11	
+
+ResponseSendTime(Ms) ( Count: 29641 Min: 0 Max: 4 Average: 0)
+Range	0	
+Count	29641	
+
+CheckMoveRequestsPerSecond ( Count: 0 Min: 0 Max: 0 Average: 0)
+

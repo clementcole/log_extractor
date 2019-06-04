@@ -1,0 +1,53 @@
+Transport 1: Run "4-11-20190506125750487" completed. Potential Total: 26, Potential Matched: 4, Potential Timeouts: 0, Actual Total: 4, Actual Moved: 0, Actual Timeouts: 0, Actual Timeouts Inc: 0, Late: 0, Errors: 0
+
+---------- Timing Histograms ----------
+
+NameVariations ( Count: 4 Min: 8 Max: 512 Average: 256)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	
+Count	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	
+
+TotalTimeInSystem(Ms) ( Count: 4 Min: 63 Max: 84 Average: 73)
+Range	0	10	20	30	40	50	60	70	80	
+Count	0	0	0	0	0	0	2	0	2	
+
+TimeRemainingAtReceipt(Ms) ( Count: 4 Min: 616 Max: 620 Average: 619)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	570	580	590	600	610	620	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	
+
+CheckMoveRequestsPerSecond ( Count: 3 Min: 1 Max: 1 Average: 1)
+Range	0	
+Count	3	
+
+LookupQueryTime(Ms) ( Count: 4 Min: 0 Max: 22 Average: 11)
+Range	0	10	20	
+Count	2	0	2	
+
+TotalProcessTime(Ms) ( Count: 4 Min: 63 Max: 84 Average: 73)
+Range	0	10	20	30	40	50	60	70	80	
+Count	0	0	0	0	0	0	2	0	2	
+
+CloudLookupTravelAndProcessTime(Ms) ( Count: 4 Min: 63 Max: 84 Average: 73)
+Range	0	10	20	30	40	50	60	70	80	
+Count	0	0	0	0	0	0	2	0	2	
+
+CloudLookupTravelTime(Ms) ( Count: 4 Min: 61 Max: 63 Average: 62)
+Range	0	10	20	30	40	50	60	
+Count	0	0	0	0	0	0	4	
+
+ResponseSendTime(Ms) ( Count: 30 Min: 0 Max: 1 Average: 0)
+Range	0	
+Count	30	
+
+
+---------- Global Timing Histograms ----------
+
+TimeRemainingAtReceipt(Ms) ( Count: 1680 Min: 585 Max: 623 Average: 615)
+Range	0	10	20	30	40	50	60	70	80	90	100	110	120	130	140	150	160	170	180	190	200	210	220	230	240	250	260	270	280	290	300	310	320	330	340	350	360	370	380	390	400	410	420	430	440	450	460	470	480	490	500	510	520	530	540	550	560	570	580	590	600	610	620	
+Count	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	208	1282	184	
+
+ResponseSendTime(Ms) ( Count: 15131 Min: 0 Max: 1 Average: 0)
+Range	0	
+Count	15131	
+
+CheckMoveRequestsPerSecond ( Count: 0 Min: 0 Max: 0 Average: 0)
+
